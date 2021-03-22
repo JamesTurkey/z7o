@@ -1,8 +1,7 @@
 👋 Hello! Welcome to my profile! 👋
 
 > I'm currently learning: **C#, Python & Java**
-<br>
-> I can work in: **Node JS, CSS, HTML**
+<br>I can work in: **Node JS, CSS, HTML**
 
 ![Nutella's GitHub stats](https://github-readme-stats.vercel.app/api?username=z7o&show_icons=true&theme=dark)
 
