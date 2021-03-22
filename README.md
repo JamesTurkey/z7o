@@ -1,6 +1,7 @@
 👋 Hello! Welcome to my profile! 👋
 
-~ I'm currently learning: **C#, Python & Java**\n
+~ I'm currently learning: **C#, Python & Java**
+<br>
 ~ I can work in: **Node JS, CSS, HTML**
 
 
